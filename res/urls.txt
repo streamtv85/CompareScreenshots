@@ -1,0 +1,7 @@
+# you can comment lines with # symbol at the beginning, they will not be used in the test
+a/chromium.org/chromedriver/capabilities
+#wiki/Software_development_process
+#wiki/Software_development
+#wiki/Information_technology_operations
+#wiki/Portmanteau
+#wiki/Software_development_process
